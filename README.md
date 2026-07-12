@@ -46,9 +46,8 @@ Prodesk-Landing-Page/
 2. Open the project folder in VS Code.
 3. Open `index.html` in your browser.
 # screenshot
-## 📸 Project Screenshot
 
-![Prodesk-Landing-Page](image.png)
+![PRODESK-LANDING-PAGE](assets/image1.png)
 # Live Demo
 link here.
 
