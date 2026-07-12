@@ -48,7 +48,7 @@ Prodesk-Landing-Page/
 
 # Live Demo
 link here.
-https://ishivam7.github.io/prodesk-it-landing-page/
+https://prodeskit-landingpage.netlify.app/
 
 # Author
 
