@@ -47,7 +47,7 @@ Prodesk-Landing-Page/
 3. Open `index.html` in your browser.
 # screenshot
 
-![PRODESK-LANDING-PAGE](assets/image1.png)
+![PRODESK-LANDING-PAGE](image1.png)
 # Live Demo
 link here.
 
