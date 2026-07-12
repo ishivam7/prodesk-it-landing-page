@@ -45,10 +45,12 @@ Prodesk-Landing-Page/
 1. Download or clone the repository.
 2. Open the project folder in VS Code.
 3. Open `index.html` in your browser.
-
+# screenshot
+![Landing Page](image.png)
 # Live Demo
 link here.
-https://prodeskit-landingpage.netlify.app/
+
+https://ishivam7.github.io/prodesk-it-landing-page/
 
 # Author
 
