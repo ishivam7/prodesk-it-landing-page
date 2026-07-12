@@ -49,7 +49,7 @@ Prodesk-Landing-Page/
 # Live Demo
 link here.
 
-https://your-project-name.netlify.app
+https://ishivam7.github.io/prodesk-it-landing-page/)
 
 # Author
 
