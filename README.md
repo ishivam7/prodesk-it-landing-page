@@ -48,8 +48,7 @@ Prodesk-Landing-Page/
 
 # Live Demo
 link here.
-
-https://ishivam7.github.io/prodesk-it-landing-page/)
+https://ishivam7.github.io/prodesk-it-landing-page/
 
 # Author
 
