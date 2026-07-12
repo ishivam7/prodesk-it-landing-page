@@ -498,3 +498,13 @@ body.dark .nav-links.active {
 body.dark .nav-links.active a {
     color: #ffffff;
 }
+html {
+    scroll-behavior: smooth;
+}
+
+#home,
+#about,
+#services,
+#contact {
+    scroll-margin-top: 90px;
+}
