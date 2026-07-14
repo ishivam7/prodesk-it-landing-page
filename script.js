@@ -1,6 +1,3 @@
-// ===============================
-// MOBILE MENU
-// ===============================
 
 const menuBtn = document.querySelector(".menu-btn");
 const navLinks = document.querySelector(".nav-links");
@@ -16,11 +13,6 @@ menuBtn.addEventListener("click", () => {
     }
 
 });
-
-
-// ===============================
-// DARK MODE
-// ===============================
 
 const themeBtn = document.getElementById("theme-btn");
 
@@ -42,11 +34,6 @@ themeBtn.addEventListener("click",()=>{
 
 });
 
-
-// ===============================
-// STICKY NAVBAR SHADOW
-// ===============================
-
 const header = document.querySelector("header");
 
 window.addEventListener("scroll",()=>{
@@ -65,10 +52,6 @@ window.addEventListener("scroll",()=>{
 
 });
 
-
-// ===============================
-// SCROLL ANIMATION
-// ===============================
 
 const observer = new IntersectionObserver((entries)=>{
 
@@ -89,10 +72,6 @@ const observer = new IntersectionObserver((entries)=>{
 document.querySelectorAll(".feature,.card,.about,.contact")
 .forEach((el)=>observer.observe(el));
 
-
-// ===============================
-// SMOOTH SCROLL
-// ===============================
 
 document.querySelectorAll('a[href^="#"]').forEach(anchor=>{
 
@@ -116,10 +95,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor=>{
 
 });
 
-
-// ===============================
-// CONTACT FORM
-// ===============================
 
 const form=document.querySelector("form");
 
